@@ -1,11 +1,11 @@
 # MiniBank
 
-Aplicacion web para gestion de cuentas bancarias escolares en ferias. Los ninos tienen una cuenta virtual, los padres depositan dinero, y los cobradores descuentan montos escaneando un codigo QR.
+Aplicacion web para gestion de cuentas bancarias de la feria de niños. Los ninos tienen una cuenta virtual, los profesores depositan dinero, y los cobradores descuentan montos escaneando un codigo QR.
 
 ## Roles
 
-- **Admin** (PIN: 2580) - Gestiona ninos, cobradores y profesores
-- **Profesor** - Registra ninos, hace depositos y cobros
+- **Admin** - Gestiona niños, cobradores y profesores
+- **Profesor** - Registra niños, hace depositos y cobros
 - **Cobrador** - Escanea QR y realiza cobros
 
 ## Stack
