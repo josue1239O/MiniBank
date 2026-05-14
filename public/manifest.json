@@ -1,0 +1,25 @@
+{
+  "name": "MiniBank",
+  "short_name": "MiniBank",
+  "description": "Sistema de gestión bancaria escolar para niños",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "education"],
+  "lang": "es"
+}
