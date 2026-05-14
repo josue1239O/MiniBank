@@ -1,6 +1,6 @@
 # MiniBank
 
-Aplicacion web para gestion de cuentas bancarias de la feria de niños. Los ninos tienen una cuenta virtual, los profesores depositan dinero, y los cobradores descuentan montos escaneando un codigo QR.
+Aplicacion web para gestion de cuentas bancarias de la feria de niños. Los niños tienen una cuenta virtual, los profesores depositan dinero, y los cobradores descuentan montos escaneando un codigo QR.
 
 ## Roles
 
